@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T19:06:34 IST" name="Suite" finished-at="2024-01-08T19:06:34 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T19:06:34 IST" name="Test" finished-at="2024-01-08T19:06:34 IST" duration-ms="51">
+      <class name="testnglearning.SatyaLoan">
+        <test-method signature="Action()[pri:0, instance:testnglearning.SatyaLoan@2525ff7e]" started-at="2024-01-08T19:06:34 IST" name="Action" finished-at="2024-01-08T19:06:34 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Action -->
+        <test-method signature="Action1()[pri:0, instance:testnglearning.SatyaLoan@2525ff7e]" started-at="2024-01-08T19:06:34 IST" name="Action1" finished-at="2024-01-08T19:06:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Action1 -->
+        <test-method signature="Satyaln()[pri:0, instance:testnglearning.SatyaLoan@2525ff7e]" started-at="2024-01-08T19:06:34 IST" name="Satyaln" finished-at="2024-01-08T19:06:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Satyaln -->
+      </class> <!-- testnglearning.SatyaLoan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
