@@ -12,24 +12,11 @@ public void ArjunLoan() {
 
 }
 
-@Test	
-public void ArjunBikeLoan() {
-	System.out.println("Bike Loadn Arjun");
-	System.out.println("Before leaving");
-
-}
 
 @Test	
-public void testcase01() {
-	System.out.println("testcase01");
-	System.out.println("testcase01");
-
-}
-
-@Test	
-public void testcase02() {
-	System.out.println("testcase02");
-	System.out.println("testcase02");
+public void addingnew() {
+	System.out.println("addingnew");
+	System.out.println("addingnew");
 
 }
 
